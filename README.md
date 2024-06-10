@@ -1,7 +1,7 @@
 # Welcome to Alexander Appelbe's GitHub Profile!
 
 ## About Me
-I'm Alexander Appelbe, a technical CEO with a rich background in leading teams towards innovation in the engineering, technology and AI spaces. My journey has taken me from engineering leadership in the aerospace sector to fostering professional development communities and steering an AI technology startup, Metis Labs, as CEO. I've partnered closely with software and AI teams to develop AI-powered solutions, emphasizing the commercialization of transformative products and services.
+I'm Alexander Appelbe, a technical CEO with a rich background in leading teams towards innovation in the engineering, technology and AI spaces. My journey has taken me from engineering leadership in the aerospace sector to fostering professional development communities and steering an AI technology startup, Metis Labs, as CEO. I've partnered closely with software and AI teams to develop AI-powered solutions, with a focus oncommercializing transformative products and services.
 
 ## My Role
 As a mainly "non-coding" executive, my expertise lies in bridging the gap between the technical world of development and the strategic objectives of a business. I work hand-in-hand with developers and engineers, understanding their challenges and supporting them in delivering cutting-edge solutions that drive sustainable change and commercial success.
@@ -15,7 +15,7 @@ To commercialize new products and services that enhance the human experience, en
 - **Community Building:** I am committed to building strong, supportive networks. GitHub is a tool that helps me stay connected with the tech community and the brilliant minds shaping the future of AI and software.
 
 ## Connect with Me
-- **LinkedIn:** Professional insights and network building
+- **[LinkedIn](https://www.linkedin.com/in/alexanderappelbe/):** Professional insights and network building
 - **Substack:** In-depth thoughts on innovation, leadership and technology.
 - **Personal Website:** A hub for my ventures and thoughts on the intersection of technology and business
 
